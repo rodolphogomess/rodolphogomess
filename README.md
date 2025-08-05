@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Olá. Me chamo Rodolpho 👋
+Vim da área de atendimento e CX, mas hoje estou em transição de carreira e meu foco é me tornar um analista de dados. Aqui você poderá acompanhar meus projetos.
 <!--
 **rodolphogomess/rodolphogomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
